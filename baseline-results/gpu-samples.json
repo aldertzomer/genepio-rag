@@ -1,0 +1,1557 @@
+[
+  {
+    "time": 1791373516.2047746,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.30"
+  },
+  {
+    "time": 1791373517.2697124,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.38"
+  },
+  {
+    "time": 1791373518.3695312,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.46"
+  },
+  {
+    "time": 1791373519.4333358,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.41"
+  },
+  {
+    "time": 1791373520.500657,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.35"
+  },
+  {
+    "time": 1791373521.5651855,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.46"
+  },
+  {
+    "time": 1791373522.7119467,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.10"
+  },
+  {
+    "time": 1791373523.7890394,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 302, 0, 3.10"
+  },
+  {
+    "time": 1791373524.8491552,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 10453, 59, 28.07"
+  },
+  {
+    "time": 1791373525.9060502,
+    "phase": "initialization",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 10453, 63, 44.38"
+  },
+  {
+    "time": 1791373526.9389253,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 10505, 2, 43.71"
+  },
+  {
+    "time": 1791373527.9853857,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 10507, 0, 42.33"
+  },
+  {
+    "time": 1791373529.0363233,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 10507, 0, 42.25"
+  },
+  {
+    "time": 1791373530.093153,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11349, 96, 106.53"
+  },
+  {
+    "time": 1791373531.1475322,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 97, 168.10"
+  },
+  {
+    "time": 1791373532.2031715,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 98, 167.34"
+  },
+  {
+    "time": 1791373533.2649305,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 97, 176.60"
+  },
+  {
+    "time": 1791373534.3219776,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 98, 168.98"
+  },
+  {
+    "time": 1791373535.3768802,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 98, 136.41"
+  },
+  {
+    "time": 1791373536.42924,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 99, 118.77"
+  },
+  {
+    "time": 1791373537.4846148,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 98, 120.34"
+  },
+  {
+    "time": 1791373538.5427258,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 11891, 98, 158.87"
+  },
+  {
+    "time": 1791373539.6028287,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 99, 171.53"
+  },
+  {
+    "time": 1791373540.663371,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 100, 212.95"
+  },
+  {
+    "time": 1791373541.7216325,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 100, 214.85"
+  },
+  {
+    "time": 1791373542.7753155,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 99, 213.08"
+  },
+  {
+    "time": 1791373543.8610463,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 99, 221.12"
+  },
+  {
+    "time": 1791373544.9146397,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 100, 197.12"
+  },
+  {
+    "time": 1791373545.9716725,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 100, 201.54"
+  },
+  {
+    "time": 1791373547.0263548,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 100, 177.00"
+  },
+  {
+    "time": 1791373548.0861576,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 99, 198.12"
+  },
+  {
+    "time": 1791373549.1473176,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12149, 99, 227.87"
+  },
+  {
+    "time": 1791373550.2051115,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12197, 96, 140.07"
+  },
+  {
+    "time": 1791373551.2658782,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12197, 96, 162.27"
+  },
+  {
+    "time": 1791373552.3243425,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 97, 164.08"
+  },
+  {
+    "time": 1791373553.3857684,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 96, 164.36"
+  },
+  {
+    "time": 1791373554.445678,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 97, 164.55"
+  },
+  {
+    "time": 1791373555.5058844,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 162.38"
+  },
+  {
+    "time": 1791373556.5635552,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 98, 158.18"
+  },
+  {
+    "time": 1791373557.6251237,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 98, 161.44"
+  },
+  {
+    "time": 1791373558.6869621,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 97, 162.45"
+  },
+  {
+    "time": 1791373559.7520921,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 171.41"
+  },
+  {
+    "time": 1791373560.8195508,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 98, 175.60"
+  },
+  {
+    "time": 1791373561.884178,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 176.66"
+  },
+  {
+    "time": 1791373562.9492683,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 174.88"
+  },
+  {
+    "time": 1791373564.0056467,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 98, 176.68"
+  },
+  {
+    "time": 1791373565.0620136,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 173.44"
+  },
+  {
+    "time": 1791373566.1184433,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 98, 165.87"
+  },
+  {
+    "time": 1791373567.1799061,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 170.07"
+  },
+  {
+    "time": 1791373568.2445235,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12199, 99, 175.32"
+  },
+  {
+    "time": 1791373569.299184,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12201, 13, 102.57"
+  },
+  {
+    "time": 1791373570.3547144,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12201, 13, 64.28"
+  },
+  {
+    "time": 1791373571.4130113,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12201, 12, 63.40"
+  },
+  {
+    "time": 1791373572.4671314,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12201, 12, 63.89"
+  },
+  {
+    "time": 1791373573.5233488,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12203, 12, 63.31"
+  },
+  {
+    "time": 1791373574.5795426,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 12, 63.46"
+  },
+  {
+    "time": 1791373575.6352487,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 13, 63.59"
+  },
+  {
+    "time": 1791373576.6909802,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 13, 63.12"
+  },
+  {
+    "time": 1791373577.7508245,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 13, 63.42"
+  },
+  {
+    "time": 1791373578.8100557,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 13, 62.74"
+  },
+  {
+    "time": 1791373579.869813,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 12, 63.18"
+  },
+  {
+    "time": 1791373580.9215431,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 12, 62.54"
+  },
+  {
+    "time": 1791373581.9712381,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 12, 62.93"
+  },
+  {
+    "time": 1791373583.0271816,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 13, 62.63"
+  },
+  {
+    "time": 1791373584.0813549,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 12, 62.54"
+  },
+  {
+    "time": 1791373585.1299243,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12213, 12, 62.86"
+  },
+  {
+    "time": 1791373586.1790984,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12235, 12, 62.38"
+  },
+  {
+    "time": 1791373587.2332237,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12235, 13, 62.50"
+  },
+  {
+    "time": 1791373588.2852592,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12235, 13, 62.20"
+  },
+  {
+    "time": 1791373589.3373675,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12235, 12, 62.67"
+  },
+  {
+    "time": 1791373590.3891606,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12235, 12, 62.68"
+  },
+  {
+    "time": 1791373591.4441245,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12235, 13, 62.51"
+  },
+  {
+    "time": 1791373592.498224,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 13, 62.71"
+  },
+  {
+    "time": 1791373593.55277,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 13, 62.18"
+  },
+  {
+    "time": 1791373594.6052072,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 12, 62.56"
+  },
+  {
+    "time": 1791373595.6586082,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 12, 61.77"
+  },
+  {
+    "time": 1791373596.7128477,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 12, 62.24"
+  },
+  {
+    "time": 1791373597.7636583,
+    "phase": "record_1_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 11, 61.79"
+  },
+  {
+    "time": 1791373598.817592,
+    "phase": "record_1_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 12, 61.87"
+  },
+  {
+    "time": 1791373599.9590938,
+    "phase": "record_1_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 0, 44.58"
+  },
+  {
+    "time": 1791373601.0664506,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12237, 0, 44.32"
+  },
+  {
+    "time": 1791373602.1156394,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 113.48"
+  },
+  {
+    "time": 1791373603.1665027,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.65"
+  },
+  {
+    "time": 1791373604.2214987,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 63.02"
+  },
+  {
+    "time": 1791373605.271724,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.70"
+  },
+  {
+    "time": 1791373606.325292,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.77"
+  },
+  {
+    "time": 1791373607.3757236,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.68"
+  },
+  {
+    "time": 1791373608.4297748,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.98"
+  },
+  {
+    "time": 1791373609.4793289,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 63.03"
+  },
+  {
+    "time": 1791373610.5382595,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.45"
+  },
+  {
+    "time": 1791373611.5876157,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 63.24"
+  },
+  {
+    "time": 1791373612.641859,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.76"
+  },
+  {
+    "time": 1791373613.6910045,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 63.02"
+  },
+  {
+    "time": 1791373614.7475877,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.56"
+  },
+  {
+    "time": 1791373615.8018587,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.72"
+  },
+  {
+    "time": 1791373616.8512259,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 62.92"
+  },
+  {
+    "time": 1791373617.9070408,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.64"
+  },
+  {
+    "time": 1791373618.9620245,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.88"
+  },
+  {
+    "time": 1791373620.0189226,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.47"
+  },
+  {
+    "time": 1791373621.076023,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.74"
+  },
+  {
+    "time": 1791373622.1303098,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.03"
+  },
+  {
+    "time": 1791373623.1784754,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.88"
+  },
+  {
+    "time": 1791373624.2270453,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 62.22"
+  },
+  {
+    "time": 1791373625.282121,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.49"
+  },
+  {
+    "time": 1791373626.334526,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.83"
+  },
+  {
+    "time": 1791373627.3839881,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.51"
+  },
+  {
+    "time": 1791373628.4367347,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.74"
+  },
+  {
+    "time": 1791373629.493162,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.26"
+  },
+  {
+    "time": 1791373630.5461612,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.51"
+  },
+  {
+    "time": 1791373631.594611,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 62.31"
+  },
+  {
+    "time": 1791373632.6464634,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.38"
+  },
+  {
+    "time": 1791373633.6955454,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.20"
+  },
+  {
+    "time": 1791373634.7511036,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.34"
+  },
+  {
+    "time": 1791373635.8096235,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.63"
+  },
+  {
+    "time": 1791373636.949938,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 54.86"
+  },
+  {
+    "time": 1791373638.0868244,
+    "phase": "record_1_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 46.49"
+  },
+  {
+    "time": 1791373639.141529,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 16, 47.95"
+  },
+  {
+    "time": 1791373640.192891,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.96"
+  },
+  {
+    "time": 1791373641.2493572,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.19"
+  },
+  {
+    "time": 1791373642.299255,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.12"
+  },
+  {
+    "time": 1791373643.3540711,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.75"
+  },
+  {
+    "time": 1791373644.4101474,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.82"
+  },
+  {
+    "time": 1791373645.4596212,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 61.05"
+  },
+  {
+    "time": 1791373646.5136807,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.55"
+  },
+  {
+    "time": 1791373647.5674124,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.80"
+  },
+  {
+    "time": 1791373648.6230128,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.25"
+  },
+  {
+    "time": 1791373649.6776276,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.81"
+  },
+  {
+    "time": 1791373650.7288706,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.33"
+  },
+  {
+    "time": 1791373651.7857976,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.64"
+  },
+  {
+    "time": 1791373652.835358,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.62"
+  },
+  {
+    "time": 1791373653.891367,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.61"
+  },
+  {
+    "time": 1791373654.946014,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.58"
+  },
+  {
+    "time": 1791373655.994932,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.22"
+  },
+  {
+    "time": 1791373657.0521045,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.60"
+  },
+  {
+    "time": 1791373658.1061678,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.34"
+  },
+  {
+    "time": 1791373659.1552963,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.49"
+  },
+  {
+    "time": 1791373660.2113981,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.28"
+  },
+  {
+    "time": 1791373661.265045,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.37"
+  },
+  {
+    "time": 1791373662.3190277,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.73"
+  },
+  {
+    "time": 1791373663.3753924,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.20"
+  },
+  {
+    "time": 1791373664.4274383,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.78"
+  },
+  {
+    "time": 1791373665.4830196,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.57"
+  },
+  {
+    "time": 1791373666.5433211,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.66"
+  },
+  {
+    "time": 1791373667.6028452,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.26"
+  },
+  {
+    "time": 1791373668.6620994,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.47"
+  },
+  {
+    "time": 1791373669.7135744,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.34"
+  },
+  {
+    "time": 1791373670.7640712,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.05"
+  },
+  {
+    "time": 1791373671.8219366,
+    "phase": "record_2_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.79"
+  },
+  {
+    "time": 1791373672.9636312,
+    "phase": "record_2_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 55.75"
+  },
+  {
+    "time": 1791373674.0661957,
+    "phase": "record_2_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 44.82"
+  },
+  {
+    "time": 1791373675.1200812,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 100, 85.62"
+  },
+  {
+    "time": 1791373676.1790612,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 79.61"
+  },
+  {
+    "time": 1791373677.2391036,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 62.20"
+  },
+  {
+    "time": 1791373678.299218,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.96"
+  },
+  {
+    "time": 1791373679.3591745,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.78"
+  },
+  {
+    "time": 1791373680.4184153,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.53"
+  },
+  {
+    "time": 1791373681.478199,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.77"
+  },
+  {
+    "time": 1791373682.528064,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.62"
+  },
+  {
+    "time": 1791373683.5844898,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.04"
+  },
+  {
+    "time": 1791373684.6370218,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 61.39"
+  },
+  {
+    "time": 1791373685.6898286,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.81"
+  },
+  {
+    "time": 1791373686.738642,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.43"
+  },
+  {
+    "time": 1791373687.7948644,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.65"
+  },
+  {
+    "time": 1791373688.853733,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.88"
+  },
+  {
+    "time": 1791373689.903104,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.36"
+  },
+  {
+    "time": 1791373690.9572048,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.92"
+  },
+  {
+    "time": 1791373692.0126698,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.40"
+  },
+  {
+    "time": 1791373693.0656543,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.87"
+  },
+  {
+    "time": 1791373694.1157346,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.70"
+  },
+  {
+    "time": 1791373695.1720448,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.75"
+  },
+  {
+    "time": 1791373696.225596,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.04"
+  },
+  {
+    "time": 1791373697.274748,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.69"
+  },
+  {
+    "time": 1791373698.3314028,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 62.14"
+  },
+  {
+    "time": 1791373699.3856587,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.15"
+  },
+  {
+    "time": 1791373700.4355373,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.76"
+  },
+  {
+    "time": 1791373701.4904068,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.52"
+  },
+  {
+    "time": 1791373702.550077,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.49"
+  },
+  {
+    "time": 1791373703.6013408,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.69"
+  },
+  {
+    "time": 1791373704.6532931,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.39"
+  },
+  {
+    "time": 1791373705.708725,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.62"
+  },
+  {
+    "time": 1791373706.762259,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 14, 61.50"
+  },
+  {
+    "time": 1791373707.8109581,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.88"
+  },
+  {
+    "time": 1791373708.869022,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.62"
+  },
+  {
+    "time": 1791373709.9234977,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 62.14"
+  },
+  {
+    "time": 1791373710.9788167,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 61.92"
+  },
+  {
+    "time": 1791373712.1156697,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 52.01"
+  },
+  {
+    "time": 1791373713.2577436,
+    "phase": "record_2_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 45.33"
+  },
+  {
+    "time": 1791373714.3117943,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 16, 48.79"
+  },
+  {
+    "time": 1791373715.3661156,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.38"
+  },
+  {
+    "time": 1791373716.4162207,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.30"
+  },
+  {
+    "time": 1791373717.4670622,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.28"
+  },
+  {
+    "time": 1791373718.5249941,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.33"
+  },
+  {
+    "time": 1791373719.5780416,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.30"
+  },
+  {
+    "time": 1791373720.6271672,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.32"
+  },
+  {
+    "time": 1791373721.684702,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.44"
+  },
+  {
+    "time": 1791373722.7356286,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.46"
+  },
+  {
+    "time": 1791373723.7876892,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.10"
+  },
+  {
+    "time": 1791373724.8445523,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.62"
+  },
+  {
+    "time": 1791373725.898871,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.20"
+  },
+  {
+    "time": 1791373726.9549305,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.65"
+  },
+  {
+    "time": 1791373728.0104043,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.00"
+  },
+  {
+    "time": 1791373729.0660152,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.11"
+  },
+  {
+    "time": 1791373730.1176054,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.64"
+  },
+  {
+    "time": 1791373731.166916,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.43"
+  },
+  {
+    "time": 1791373732.223062,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.56"
+  },
+  {
+    "time": 1791373733.282061,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.12"
+  },
+  {
+    "time": 1791373734.3310978,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.01"
+  },
+  {
+    "time": 1791373735.38576,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.31"
+  },
+  {
+    "time": 1791373736.4349594,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.65"
+  },
+  {
+    "time": 1791373737.4834397,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.49"
+  },
+  {
+    "time": 1791373738.5394478,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.51"
+  },
+  {
+    "time": 1791373739.5947032,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.33"
+  },
+  {
+    "time": 1791373740.6451797,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 59.85"
+  },
+  {
+    "time": 1791373741.6989083,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.34"
+  },
+  {
+    "time": 1791373742.7465537,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.44"
+  },
+  {
+    "time": 1791373743.7989516,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.69"
+  },
+  {
+    "time": 1791373744.8503845,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 11, 60.38"
+  },
+  {
+    "time": 1791373745.899182,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.24"
+  },
+  {
+    "time": 1791373746.9570646,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.64"
+  },
+  {
+    "time": 1791373748.0110948,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.37"
+  },
+  {
+    "time": 1791373749.0675728,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.58"
+  },
+  {
+    "time": 1791373750.1223638,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 59.95"
+  },
+  {
+    "time": 1791373751.1792257,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.41"
+  },
+  {
+    "time": 1791373752.2354035,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.20"
+  },
+  {
+    "time": 1791373753.2946033,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.60"
+  },
+  {
+    "time": 1791373754.3435853,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.69"
+  },
+  {
+    "time": 1791373755.39849,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.46"
+  },
+  {
+    "time": 1791373756.448298,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.57"
+  },
+  {
+    "time": 1791373757.5027697,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.28"
+  },
+  {
+    "time": 1791373758.5585225,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.65"
+  },
+  {
+    "time": 1791373759.6078117,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.42"
+  },
+  {
+    "time": 1791373760.663632,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.62"
+  },
+  {
+    "time": 1791373761.7170346,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.54"
+  },
+  {
+    "time": 1791373762.7732632,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.07"
+  },
+  {
+    "time": 1791373763.8279254,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.46"
+  },
+  {
+    "time": 1791373764.8813455,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.28"
+  },
+  {
+    "time": 1791373765.93186,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.74"
+  },
+  {
+    "time": 1791373766.991686,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.49"
+  },
+  {
+    "time": 1791373768.0504026,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.75"
+  },
+  {
+    "time": 1791373769.0994234,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.28"
+  },
+  {
+    "time": 1791373770.1550097,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.68"
+  },
+  {
+    "time": 1791373771.2106724,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.30"
+  },
+  {
+    "time": 1791373772.2695763,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.51"
+  },
+  {
+    "time": 1791373773.3210518,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.82"
+  },
+  {
+    "time": 1791373774.3750448,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 13, 60.61"
+  },
+  {
+    "time": 1791373775.4308038,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.87"
+  },
+  {
+    "time": 1791373776.488177,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.52"
+  },
+  {
+    "time": 1791373777.5434697,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.70"
+  },
+  {
+    "time": 1791373778.5991273,
+    "phase": "record_3_extraction",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 12, 60.55"
+  },
+  {
+    "time": 1791373779.7390714,
+    "phase": "record_3_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 53.92"
+  },
+  {
+    "time": 1791373780.7939034,
+    "phase": "record_3_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 46.05"
+  },
+  {
+    "time": 1791373781.93465,
+    "phase": "record_3_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 42.28"
+  },
+  {
+    "time": 1791373782.989732,
+    "phase": "record_3_retrieval",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12295, 0, 42.32"
+  },
+  {
+    "time": 1791373784.0872383,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 100, 91.01"
+  },
+  {
+    "time": 1791373785.145513,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 131.55"
+  },
+  {
+    "time": 1791373786.1957886,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.54"
+  },
+  {
+    "time": 1791373787.2508276,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.73"
+  },
+  {
+    "time": 1791373788.305834,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.19"
+  },
+  {
+    "time": 1791373789.3545122,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.23"
+  },
+  {
+    "time": 1791373790.410287,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.78"
+  },
+  {
+    "time": 1791373791.4625475,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 61.91"
+  },
+  {
+    "time": 1791373792.5112846,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.03"
+  },
+  {
+    "time": 1791373793.5662277,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.07"
+  },
+  {
+    "time": 1791373794.6142166,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.53"
+  },
+  {
+    "time": 1791373795.6619098,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 13, 62.07"
+  },
+  {
+    "time": 1791373796.7111664,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.33"
+  },
+  {
+    "time": 1791373797.765449,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 13, 62.12"
+  },
+  {
+    "time": 1791373798.8148944,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 61.94"
+  },
+  {
+    "time": 1791373799.8701053,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.30"
+  },
+  {
+    "time": 1791373800.9191978,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 61.97"
+  },
+  {
+    "time": 1791373801.9721305,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.35"
+  },
+  {
+    "time": 1791373803.0253723,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.08"
+  },
+  {
+    "time": 1791373804.07823,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.12"
+  },
+  {
+    "time": 1791373805.1263163,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.07"
+  },
+  {
+    "time": 1791373806.1771464,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 13, 61.70"
+  },
+  {
+    "time": 1791373807.229809,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.06"
+  },
+  {
+    "time": 1791373808.2792525,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 61.95"
+  },
+  {
+    "time": 1791373809.3363268,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.23"
+  },
+  {
+    "time": 1791373810.389469,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 61.82"
+  },
+  {
+    "time": 1791373811.4403808,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.85"
+  },
+  {
+    "time": 1791373812.4949083,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.51"
+  },
+  {
+    "time": 1791373813.5486214,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.71"
+  },
+  {
+    "time": 1791373814.602113,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.86"
+  },
+  {
+    "time": 1791373815.6556056,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.09"
+  },
+  {
+    "time": 1791373816.7144828,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.39"
+  },
+  {
+    "time": 1791373817.7737415,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.29"
+  },
+  {
+    "time": 1791373818.8232055,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.59"
+  },
+  {
+    "time": 1791373819.8773491,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.22"
+  },
+  {
+    "time": 1791373820.927347,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.64"
+  },
+  {
+    "time": 1791373821.98199,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 13, 62.23"
+  },
+  {
+    "time": 1791373823.0327966,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.24"
+  },
+  {
+    "time": 1791373824.0860708,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.61"
+  },
+  {
+    "time": 1791373825.1335542,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.18"
+  },
+  {
+    "time": 1791373826.1824396,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.72"
+  },
+  {
+    "time": 1791373827.2314417,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.61"
+  },
+  {
+    "time": 1791373828.2861748,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.87"
+  },
+  {
+    "time": 1791373829.3350937,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.48"
+  },
+  {
+    "time": 1791373830.391667,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.35"
+  },
+  {
+    "time": 1791373831.450462,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.60"
+  },
+  {
+    "time": 1791373832.4992464,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.03"
+  },
+  {
+    "time": 1791373833.5550075,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.58"
+  },
+  {
+    "time": 1791373834.6095393,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.23"
+  },
+  {
+    "time": 1791373835.6588995,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.75"
+  },
+  {
+    "time": 1791373836.7155027,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 13, 62.51"
+  },
+  {
+    "time": 1791373837.769547,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.68"
+  },
+  {
+    "time": 1791373838.8197415,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.62"
+  },
+  {
+    "time": 1791373839.875739,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.48"
+  },
+  {
+    "time": 1791373840.9297955,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 15, 62.77"
+  },
+  {
+    "time": 1791373841.9790068,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 14, 62.21"
+  },
+  {
+    "time": 1791373843.115764,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 0, 54.15"
+  },
+  {
+    "time": 1791373844.258034,
+    "phase": "record_3_grounding",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER, 16376, 12895, 0, 42.63"
+  }
+]

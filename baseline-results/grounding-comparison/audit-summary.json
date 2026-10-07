@@ -1,0 +1,30 @@
+{
+  "responses": 118,
+  "by_pass": {
+    "extraction": {
+      "responses": 59,
+      "finish_reasons": {
+        "length": 59
+      },
+      "valid_json": 0,
+      "truncation_rate": 1.0,
+      "closing_delimiters": 0,
+      "complete_partial_objects": {
+        "1": 59
+      }
+    },
+    "grounding": {
+      "responses": 59,
+      "finish_reasons": {
+        "length": 59
+      },
+      "valid_json": 0,
+      "truncation_rate": 1.0,
+      "closing_delimiters": 0,
+      "complete_partial_objects": {
+        "1": 39,
+        "0": 20
+      }
+    }
+  }
+}

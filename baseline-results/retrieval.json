@@ -1,0 +1,454 @@
+{
+  "cat": [
+    {
+      "rank": 1,
+      "score": 1.3762,
+      "id": "NCBITaxon:9685",
+      "label": "Felis catus",
+      "synonyms": [
+        "cat",
+        "cats",
+        "domestic cat"
+      ],
+      "definition": "",
+      "parents": [
+        "NCBITaxon:9681"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/NCBITaxon_9685"
+    },
+    {
+      "rank": 2,
+      "score": 0.3933,
+      "id": "FOODON:03510028",
+      "label": "pet cat as consumer",
+      "synonyms": [],
+      "definition": "",
+      "parents": [
+        "FOODON:03510029"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/FOODON_03510028"
+    },
+    {
+      "rank": 3,
+      "score": 0.3552,
+      "id": "NCBITaxon:9681",
+      "label": "Felidae",
+      "synonyms": [
+        "cat family"
+      ],
+      "definition": "",
+      "parents": [
+        "NCBITaxon:379583"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/NCBITaxon_9681"
+    },
+    {
+      "rank": 4,
+      "score": 0.1309,
+      "id": "ARO:3004420",
+      "label": "chloramphenicol acetyltransferase assay (CAT)",
+      "synonyms": [],
+      "definition": "Commercial colorimetric assay for detection of chloramphenicol modifying enzyme chloramphenicol acetyltransferase.",
+      "parents": [
+        "ARO:3004396"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/ARO_3004420"
+    },
+    {
+      "rank": 5,
+      "score": 0.1052,
+      "id": "DOID:11258",
+      "label": "cat-scratch disease",
+      "synonyms": [],
+      "definition": "A bartonellosis that results_in infection located_in lymph node, has_material_basis_in Bartonella henselae or has_material_basis_in Bartonella clarridgeiae, which are transmitted_by scratch or bite of a kitten, or transmitted_by contact of animal's saliva with an eye or through broken skin. The infection has_symptom regional lymphadenopathy, has_symptom headache, has_symptom chills, has_symptom backache, and has_symptom abdominal pain.",
+      "parents": [
+        "DOID:11102",
+        "DOID:9942"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/DOID_11258"
+    },
+    {
+      "rank": 6,
+      "score": 0.0656,
+      "id": "GENEPIO:0000005",
+      "label": "term source",
+      "synonyms": [],
+      "definition": "",
+      "parents": [],
+      "iri": "http://purl.obolibrary.org/obo/GENEPIO_0000005"
+    },
+    {
+      "rank": 7,
+      "score": 0.0593,
+      "id": "GENEPIO:0001623",
+      "label": "draft NCBI isolate source location model",
+      "synonyms": [],
+      "definition": "",
+      "parents": [
+        "GENEPIO:0001611"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/GENEPIO_0001623"
+    },
+    {
+      "rank": 8,
+      "score": 0.0565,
+      "id": "GENEPIO:0001637",
+      "label": "obsolete: specimen source material category",
+      "synonyms": [],
+      "definition": "This is the scientific role or category that the subject organism or material has with respect to an investigation.",
+      "parents": [],
+      "iri": "http://purl.obolibrary.org/obo/GENEPIO_0001637"
+    }
+  ],
+  "urinary tract infection": [
+    {
+      "rank": 1,
+      "score": 1.5611,
+      "id": "DOID:0080784",
+      "label": "urinary tract infection",
+      "synonyms": [],
+      "definition": "An urinary system disease that is characterized by an infection in any part of the urinary system, including the kidneys, ureters, bladder or urethra.",
+      "parents": [
+        "DOID:104",
+        "DOID:18"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/DOID_0080784"
+    },
+    {
+      "rank": 2,
+      "score": 0.4543,
+      "id": "HP:0010935",
+      "label": "Abnormality of the upper urinary tract",
+      "synonyms": [],
+      "definition": "An abnormality of the upper urinary tract.",
+      "parents": [
+        "HP:0000079"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0010935"
+    },
+    {
+      "rank": 3,
+      "score": 0.4438,
+      "id": "HP:0000079",
+      "label": "Abnormality of the urinary system",
+      "synonyms": [
+        "Urinary tract abnormalities",
+        "Urinary tract abnormality",
+        "Urinary tract anomalies"
+      ],
+      "definition": "An abnormality of the urinary system.",
+      "parents": [
+        "HP:0000119"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0000079"
+    },
+    {
+      "rank": 4,
+      "score": 0.3814,
+      "id": "HP:0011947",
+      "label": "Respiratory tract infection",
+      "synonyms": [
+        "Respiratory infection"
+      ],
+      "definition": "An infection of the upper or lower respiratory tract.",
+      "parents": [
+        "HP:0002088"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0011947"
+    },
+    {
+      "rank": 5,
+      "score": 0.354,
+      "id": "NCIT:C3430",
+      "label": "Urinary System Disorder",
+      "synonyms": [
+        "Disorder of Urinary System",
+        "Urologic Disorder",
+        "urinary tract disorder"
+      ],
+      "definition": "A non-neoplastic or neoplastic disorder affecting the urinary system.",
+      "parents": [
+        "NCIT:C156660"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/NCIT_C3430"
+    },
+    {
+      "rank": 6,
+      "score": 0.3012,
+      "id": "CHEBI:116278",
+      "label": "lomefloxacin",
+      "synonyms": [],
+      "definition": "A fluoroquinolone antibiotic, used (generally as the hydrochloride salt) to treat bacterial infections including bronchitis and urinary tract infections. It is also used to prevent urinary tract infections prior to surgery.",
+      "parents": [
+        "CHEBI:23765",
+        "CHEBI:26512",
+        "CHEBI:46848",
+        "CHEBI:86324",
+        "CHEBI:87211"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/CHEBI_116278"
+    },
+    {
+      "rank": 7,
+      "score": 0.2819,
+      "id": "MONDO:0002118",
+      "label": "urinary system disorder",
+      "synonyms": [
+        "disease of renal system",
+        "disease or disorder of renal system",
+        "disease, urinary tract",
+        "disease, urologic",
+        "disease, urological",
+        "diseases, urinary tract",
+        "diseases, urologic",
+        "diseases, urological",
+        "disorder of renal system",
+        "disorder of the urinary system",
+        "disorder of urinary system",
+        "renal system disease",
+        "renal system disease or disorder",
+        "urinary disease",
+        "urinary tract disease",
+        "urinary tract diseases",
+        "urinary tract disorder",
+        "urologic disease",
+        "urologic disorder",
+        "urological disease",
+        "urological diseases",
+        "urological disorder",
+        "urological disorders"
+      ],
+      "definition": "A disease involving the renal system.",
+      "parents": [
+        "MONDO:7770006"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/MONDO_0002118"
+    },
+    {
+      "rank": 8,
+      "score": 0.2223,
+      "id": "HP:0011277",
+      "label": "Abnormality of the urinary system physiology",
+      "synonyms": [],
+      "definition": "",
+      "parents": [
+        "HP:0000079"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0011277"
+    }
+  ],
+  "urine": [
+    {
+      "rank": 1,
+      "score": 1.4306,
+      "id": "UBERON:0001088",
+      "label": "urine",
+      "synonyms": [],
+      "definition": "Excretion that is the output of a kidney.",
+      "parents": [
+        "UBERON:0000174"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/UBERON_0001088"
+    },
+    {
+      "rank": 2,
+      "score": 0.4483,
+      "id": "OMIT:0027578",
+      "label": "Urine Specimen Collection",
+      "synonyms": [],
+      "definition": "",
+      "parents": [
+        "OBI:0600005",
+        "OMIT:0013933"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/OMIT_0027578"
+    },
+    {
+      "rank": 3,
+      "score": 0.332,
+      "id": "HP:0012614",
+      "label": "Abnormal urine cytology",
+      "synonyms": [],
+      "definition": "An anomalous finding in the examination of the urine for cells.",
+      "parents": [
+        "HP:0003110"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0012614"
+    },
+    {
+      "rank": 4,
+      "score": 0.3094,
+      "id": "HP:0003110",
+      "label": "Abnormality of urine homeostasis",
+      "synonyms": [
+        "Pee issues",
+        "Urine issues"
+      ],
+      "definition": "An abnormality of the composition of urine or the levels of its components.",
+      "parents": [
+        "HP:0001939",
+        "HP:0011277"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0003110"
+    },
+    {
+      "rank": 5,
+      "score": 0.2525,
+      "id": "HP:0000790",
+      "label": "Hematuria",
+      "synonyms": [
+        "Blood in urine",
+        "High urine occult blood"
+      ],
+      "definition": "The presence of blood in the urine. Hematuria may be gross hematuria (visible to the naked eye) or microscopic hematuria (detected by dipstick or microscopic examination of the urine).",
+      "parents": [
+        "HP:0012211",
+        "HP:0012614"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/HP_0000790"
+    },
+    {
+      "rank": 6,
+      "score": 0.1988,
+      "id": "GENEPIO:0002115",
+      "label": "sputum collection",
+      "synonyms": [],
+      "definition": "The process of collecting a portion of urine from an organism.",
+      "parents": [
+        "OBI:0600005"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/GENEPIO_0002115"
+    },
+    {
+      "rank": 7,
+      "score": 0.1815,
+      "id": "ENVO:00002018",
+      "label": "sewage",
+      "synonyms": [],
+      "definition": "Wastewater that is contaminated with feces or urine,",
+      "parents": [
+        "ENVO:00002001"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/ENVO_00002018"
+    },
+    {
+      "rank": 8,
+      "score": 0.1578,
+      "id": "UBERON:0000057",
+      "label": "urethra",
+      "synonyms": [],
+      "definition": "The fibromuscular tubular canal through which urine is discharged from the bladder to the exterior via the external urinary meatus; in males, the urethra is joined by the ejaculatory ducts and serves as a passageway for semen during ejaculation, as well as a canal for urine during voiding; in females, the urethra is shorter and emerges above the vaginal opening.",
+      "parents": [
+        "UBERON:0000062",
+        "UBERON:0004111",
+        "UBERON:0004120"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/UBERON_0000057"
+    }
+  ],
+  "Homo sapiens": [
+    {
+      "rank": 1,
+      "score": 1.8303,
+      "id": "NCBITaxon:9606",
+      "label": "Homo sapiens",
+      "synonyms": [
+        "human"
+      ],
+      "definition": "",
+      "parents": [
+        "NCBITaxon:9605"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+    },
+    {
+      "rank": 2,
+      "score": 0.6431,
+      "id": "ECTO:3000005",
+      "label": "exposure to humans",
+      "synonyms": [
+        "Homo sapiens exposure"
+      ],
+      "definition": "A history of exposure to Homo sapiens.",
+      "parents": [
+        "ECTO:3000000"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/ECTO_3000005"
+    },
+    {
+      "rank": 3,
+      "score": 0.3572,
+      "id": "NCBITaxon:9605",
+      "label": "Homo",
+      "synonyms": [
+        "humans"
+      ],
+      "definition": "",
+      "parents": [
+        "NCBITaxon:314146"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/NCBITaxon_9605"
+    },
+    {
+      "rank": 4,
+      "score": 0.2312,
+      "id": "GENEPIO:0001567",
+      "label": "subject organism (host) taxonomic species",
+      "synonyms": [],
+      "definition": "The species of the host organism from which a specimen (pathogen) organism was obtained. Use the full taxonomic name, eg, \"Homo sapiens\".",
+      "parents": [
+        "OBI:0001930"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/GENEPIO_0001567"
+    },
+    {
+      "rank": 5,
+      "score": 0.059,
+      "id": "NCBITaxon:179238",
+      "label": "Mus musculus homourus",
+      "synonyms": [],
+      "definition": "",
+      "parents": [
+        "NCBITaxon:10090"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/NCBITaxon_179238"
+    },
+    {
+      "rank": 6,
+      "score": 0.0555,
+      "id": "CHEBI:35295",
+      "label": "homopolycyclic compound",
+      "synonyms": [],
+      "definition": "",
+      "parents": [
+        "CHEBI:33597",
+        "CHEBI:33635"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/CHEBI_35295"
+    },
+    {
+      "rank": 7,
+      "score": 0.0505,
+      "id": "CHEBI:33597",
+      "label": "homocyclic compound",
+      "synonyms": [],
+      "definition": "A cyclic compound having as ring members atoms of the same element only.",
+      "parents": [
+        "CHEBI:33595"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/CHEBI_33597"
+    },
+    {
+      "rank": 8,
+      "score": 0.0469,
+      "id": "AfPO:0000113",
+      "label": "Oromo",
+      "synonyms": [],
+      "definition": "A Cushitic Eastern population with a population size of 40 millions",
+      "parents": [
+        "AfPO:0000269"
+      ],
+      "iri": "http://purl.obolibrary.org/obo/AfPO_0000113"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+[
+  {
+    "pass": "extraction",
+    "records": 32,
+    "prompt_tokens": 9544,
+    "generated_tokens": 2149,
+    "wall_seconds": 2.8485071209724993,
+    "generated_tokens_per_second": 754.4302712735775,
+    "total_tokens_per_second": 4104.9572647752175,
+    "records_per_second": 11.233954714171466,
+    "gpu_utilization_mean_percent": 95.5,
+    "gpu_utilization_peak_percent": 100.0,
+    "peak_vram_mib": 14991.0,
+    "length_stops": 0,
+    "samples": [
+      {
+        "time": 1791378276.339021,
+        "utilization_percent": 94.0,
+        "used_mib": 13759.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378276.5745041,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378276.8066905,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378277.0413263,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378277.2751586,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378277.5261161,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378277.7771037,
+        "utilization_percent": 93.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378278.0201395,
+        "utilization_percent": 93.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378278.2606127,
+        "utilization_percent": 92.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378278.5033257,
+        "utilization_percent": 93.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378278.744001,
+        "utilization_percent": 92.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378278.9861143,
+        "utilization_percent": 93.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      }
+    ],
+    "name": "extraction",
+    "generated_token_distribution": {
+      "min": 55.0,
+      "median": 58.0,
+      "P90": 90.0,
+      "P95": 90.0,
+      "P99": 90.0,
+      "max": 90.0
+    },
+    "generated_tokens_per_record": [
+      55,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      58,
+      90,
+      56,
+      56,
+      90,
+      56,
+      56
+    ],
+    "prompt_tokens_per_record": [
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292,
+      312,
+      292,
+      292
+    ],
+    "finish_reasons": {
+      "stop": 32
+    }
+  },
+  {
+    "pass": "grounding",
+    "records": 32,
+    "prompt_tokens": 39092,
+    "generated_tokens": 464,
+    "wall_seconds": 5.213659510016441,
+    "generated_tokens_per_second": 88.99698937158571,
+    "total_tokens_per_second": 7586.993343927682,
+    "records_per_second": 6.137723404936946,
+    "gpu_utilization_mean_percent": 90.45454545454545,
+    "gpu_utilization_peak_percent": 100.0,
+    "peak_vram_mib": 14991.0,
+    "length_stops": 0,
+    "samples": [
+      {
+        "time": 1791378287.9030232,
+        "utilization_percent": 0.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378288.1378815,
+        "utilization_percent": 14.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378288.3809414,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378288.6612327,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378288.8930383,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378289.1267183,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378289.366489,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378289.603404,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378289.8333025,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378290.0655313,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378290.3029232,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378290.5371964,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378290.7787402,
+        "utilization_percent": 96.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378291.0123768,
+        "utilization_percent": 97.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378291.243698,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378291.476226,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378291.7095962,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378291.942548,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378292.177088,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378292.409006,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378292.6499677,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378292.926647,
+        "utilization_percent": 95.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      }
+    ],
+    "name": "grounding_fixed_concepts",
+    "generated_token_distribution": {
+      "min": 12.0,
+      "median": 12.0,
+      "P90": 20.0,
+      "P95": 20.0,
+      "P99": 20.0,
+      "max": 20.0
+    },
+    "generated_tokens_per_record": [
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12,
+      20,
+      12,
+      12
+    ],
+    "prompt_tokens_per_record": [
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990,
+      1784,
+      942,
+      990
+    ],
+    "finish_reasons": {
+      "stop": 32
+    }
+  },
+  {
+    "pass": "grounding",
+    "records": 32,
+    "prompt_tokens": 35518,
+    "generated_tokens": 466,
+    "wall_seconds": 4.699613581993617,
+    "generated_tokens_per_second": 99.1570885286102,
+    "total_tokens_per_second": 7656.7997287843555,
+    "records_per_second": 6.809070456900272,
+    "gpu_utilization_mean_percent": 93.9,
+    "gpu_utilization_peak_percent": 100.0,
+    "peak_vram_mib": 14991.0,
+    "length_stops": 0,
+    "samples": [
+      {
+        "time": 1791378306.7267244,
+        "utilization_percent": 0.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378306.9986873,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378307.23227,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378307.4637785,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378307.696958,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378307.9310176,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378308.1638372,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378308.3987806,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378308.6310754,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378308.8643472,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378309.1014996,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378309.336462,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378309.5828557,
+        "utilization_percent": 99.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378309.8169231,
+        "utilization_percent": 94.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378310.0512128,
+        "utilization_percent": 97.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378310.283676,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378310.519777,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378310.7611284,
+        "utilization_percent": 100.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378310.9975529,
+        "utilization_percent": 98.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      },
+      {
+        "time": 1791378311.2430072,
+        "utilization_percent": 96.0,
+        "used_mib": 14991.0,
+        "total_mib": 16376.0
+      }
+    ],
+    "name": "grounding_end_to_end",
+    "generated_token_distribution": {
+      "min": 13.0,
+      "median": 13.0,
+      "P90": 18.0,
+      "P95": 18.0,
+      "P99": 18.0,
+      "max": 18.0
+    },
+    "generated_tokens_per_record": [
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13,
+      18,
+      13,
+      13
+    ],
+    "prompt_tokens_per_record": [
+      949,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      953,
+      1458,
+      951,
+      951,
+      1458,
+      951,
+      951
+    ],
+    "finish_reasons": {
+      "stop": 32
+    }
+  }
+]

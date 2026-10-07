@@ -1,0 +1,79 @@
+{
+  "load_seconds": 9.926943607977591,
+  "device_map": {
+    "cuda:0": 8918026716
+  },
+  "records": [
+    {
+      "record": 1,
+      "accession": "ERR4224313",
+      "seconds": 109.75837797304848,
+      "extraction_seconds": 72.10029095603386,
+      "retrieval_seconds": 2.217538424010854,
+      "grounding_seconds": 35.44053686101688,
+      "concepts": 3
+    },
+    {
+      "record": 2,
+      "accession": "ERR4224555",
+      "seconds": 72.5512265660218,
+      "extraction_seconds": 33.7329807250062,
+      "retrieval_seconds": 2.1416723169968463,
+      "grounding_seconds": 36.67656548199011,
+      "concepts": 3
+    },
+    {
+      "record": 3,
+      "accession": "SRR28564538",
+      "seconds": 128.71277490101056,
+      "extraction_seconds": 65.38060954300454,
+      "retrieval_seconds": 4.337855738995131,
+      "grounding_seconds": 58.994301999977324,
+      "concepts": 6
+    }
+  ],
+  "generation_calls": [
+    {
+      "phase": "record_1_extraction",
+      "seconds": 72.09444869699655,
+      "input_tokens": 221,
+      "generated_tokens": 215,
+      "tokens_per_second": 2.98219909973397
+    },
+    {
+      "phase": "record_1_grounding",
+      "seconds": 35.430813379003666,
+      "input_tokens": 2108,
+      "generated_tokens": 248,
+      "tokens_per_second": 6.999557062016675
+    },
+    {
+      "phase": "record_2_extraction",
+      "seconds": 33.72864805703284,
+      "input_tokens": 221,
+      "generated_tokens": 235,
+      "tokens_per_second": 6.967370871273317
+    },
+    {
+      "phase": "record_2_grounding",
+      "seconds": 36.66653596999822,
+      "input_tokens": 2145,
+      "generated_tokens": 256,
+      "tokens_per_second": 6.981843068280781
+    },
+    {
+      "phase": "record_3_extraction",
+      "seconds": 65.37604117102455,
+      "input_tokens": 241,
+      "generated_tokens": 458,
+      "tokens_per_second": 7.005624565150193
+    },
+    {
+      "phase": "record_3_grounding",
+      "seconds": 58.98073386400938,
+      "input_tokens": 4353,
+      "generated_tokens": 411,
+      "tokens_per_second": 6.968377181396792
+    }
+  ]
+}

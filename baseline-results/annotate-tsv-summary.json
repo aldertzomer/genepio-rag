@@ -1,0 +1,28 @@
+{
+  "records": 20,
+  "concepts": 68,
+  "statuses": {
+    "matched": 47,
+    "unresolved": 21
+  },
+  "matched_ids": {
+    "NCBITaxon:197": 23,
+    "NCBITaxon:9685": 17,
+    "UBERON:0002108": 1,
+    "GENEPIO:0001590": 2,
+    "ENVO:00002003": 1,
+    "NCBITaxon:194": 2,
+    "UBERON:0001988": 1
+  },
+  "source_value_mismatches": [],
+  "isolation_sources": {
+    "cat": 15,
+    "small intestine": 1,
+    "kitten": 1,
+    "Cat faeces": 1,
+    "Feline Small Intestine": 1,
+    "Feline Intestine": 1
+  },
+  "all_matched_ids_in_candidates": true,
+  "metadata_preserved": true
+}

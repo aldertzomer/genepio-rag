@@ -1,0 +1,59 @@
+{
+  "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
+  "samples": 301,
+  "vram_peak_mib": 12895.0,
+  "vram_mean_mib": 12360.820598006645,
+  "gpu_util_mean_percent": 23.368770764119603,
+  "gpu_util_median_percent": 13.0,
+  "gpu_util_peak_percent": 100.0,
+  "power_mean_watts": 75.03212624584718,
+  "record_mean_seconds": 103.67412648002694,
+  "generation_tokens_total": 1823,
+  "generation_tokens_per_second": 6.0308877828652,
+  "warm_tokens_per_second": 6.985753029852309,
+  "record_1_extraction": {
+    "gpu_util_mean": 58.60294117647059,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 100.0
+  },
+  "record_1_grounding": {
+    "gpu_util_mean": 12.13888888888889,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 14.0
+  },
+  "record_1_retrieval": {
+    "gpu_util_mean": 6.0,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 12.0
+  },
+  "record_2_extraction": {
+    "gpu_util_mean": 12.34375,
+    "gpu_util_min": 11.0,
+    "gpu_util_max": 16.0
+  },
+  "record_2_grounding": {
+    "gpu_util_mean": 14.972972972972974,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 100.0
+  },
+  "record_2_retrieval": {
+    "gpu_util_mean": 0.0,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 0.0
+  },
+  "record_3_extraction": {
+    "gpu_util_mean": 12.338709677419354,
+    "gpu_util_min": 11.0,
+    "gpu_util_max": 16.0
+  },
+  "record_3_grounding": {
+    "gpu_util_mean": 15.275862068965518,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 100.0
+  },
+  "record_3_retrieval": {
+    "gpu_util_mean": 0.0,
+    "gpu_util_min": 0.0,
+    "gpu_util_max": 0.0
+  }
+}

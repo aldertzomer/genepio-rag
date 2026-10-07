@@ -1,0 +1,28 @@
+# Local Python environments and downloaded tooling
+.venv/
+.python/
+.setup-tools/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.idea/
+.agents/
+.codex/
+.aws/
+
+# Local ontology downloads and compiled indices
+*.owl
+*.joblib
+
+# Local metadata and generated annotation records
+benchmark.tsv
+annotations.jsonl
+baseline-results/**/*.jsonl
+baseline-results/**/responses.json
+baseline-results/**/comparison-responses.json
+baseline-results/**/response-audit.json
+baseline-results/annotate-cat.json
+baseline-results/grounding-comparison/response-audit.md
+
+# Machine-specific run and install logs
+*.log

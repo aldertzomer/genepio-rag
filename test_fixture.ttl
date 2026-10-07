@@ -1,0 +1,20 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+
+obo:NCBITaxon_9685 a owl:Class ;
+  rdfs:label "Felis catus" ;
+  obo:IAO_0000118 "cat", "cats", "domestic cat" .
+
+obo:DOID_13148 a owl:Class ;
+  rdfs:label "urinary tract infection" ;
+  obo:IAO_0000115 "An urinary system disease characterized by an infection in any part of the urinary system, including the kidneys, ureters, bladder or urethra." .
+
+obo:GENEPIO_0000028 a owl:Class ;
+  rdfs:label "subject body product" ;
+  obo:IAO_0000115 "Substance produced by the body, e.g. stool, mucus, where the specimen was obtained from." .
+
+obo:NCBITaxon_9606 a owl:Class ;
+  rdfs:label "Homo sapiens" ;
+  obo:IAO_0000118 "human", "humans" .
