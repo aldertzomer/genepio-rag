@@ -181,3 +181,111 @@ only three unique records and do not establish production tail behavior.
 
 Historical verbose-representation benchmarks and response audits remain in
 `baseline-results/vllm-benchmark/` and `baseline-results/grounding-comparison/`.
+
+## Exploratory BioSample sample test
+
+`biosample_sample_test.py` selects a reproducible random sample from a local
+NCBI `biosample_set.xml.gz` (also plain XML) or `biosample.parquet`. It uses file
+magic to autodetect the format; `--format xml` or `--format parquet` overrides it.
+Defaults are `--n 200`, `--seed 12345`, and `--min-nonempty-fields 0`. With the
+zero threshold, every input BioSample row is eligible, including sparse records.
+Sampling is without replacement, and fewer than `n` eligible rows yields all
+available eligible rows. The resulting sample is saved in source-row order.
+
+The following command **does not load the model, ontology index or GPU**:
+
+```bash
+python biosample_sample_test.py biosample.parquet \
+  --n 200 --seed 12345 --sample-only \
+  --output-dir sample-test-runs/metadata-only
+```
+
+When ready to run inference, omit `--sample-only`:
+
+```bash
+python biosample_sample_test.py biosample_set.xml.gz \
+  --n 200 --seed 12345 --index genepio_rag.joblib \
+  --output-dir sample-test-runs/xml-exploration
+
+python biosample_sample_test.py biosample.parquet \
+  --n 200 --seed 12345 --index genepio_rag.joblib \
+  --output-dir sample-test-runs/parquet-exploration
+```
+
+XML uses streaming parsing plus uniform reservoir sampling. Completed BioSample
+elements are removed from their parent, keeping memory bounded by one record,
+parser buffers and the selected sample. Reading the whole XML stream is necessary
+to obtain a uniform reservoir sample.
+
+For unfiltered Parquet, a seeded RNG samples global row positions using row-count
+metadata. PyArrow reads only the selected row groups in bounded record batches;
+all columns are retained, and only selected rows are converted to Python objects.
+A positive `--min-nonempty-fields` requires scanning records to evaluate the
+threshold and uses reservoir sampling. The threshold counts all non-empty
+canonical metadata fields, including administrative fields and original-name
+aliases. XML and Parquet sampling algorithms can select different records for
+the same seed; each is reproducible for an unchanged input and format.
+
+Both adapters produce the canonical structure:
+
+```json
+{
+  "accession": "SAMN00000001",
+  "metadata": {
+    "accession": "SAMN00000001",
+    "host": "cat",
+    "original_attributes.Host": "cat",
+    "organism": "Campylobacter jejuni",
+    "some_unanticipated_field": "retained value"
+  }
+}
+```
+
+All non-empty fields are retained, with no whitelist for LLM input. Actual nulls,
+NaN and blank values are removed; zero, false and literal missingness descriptions
+such as `NA` or `not collected` are retained in saved metadata. The production
+prompt formatter's existing handling of missing-value literals is unchanged.
+Repeated values are joined with ` | `. Nested Parquet columns are flattened to
+field paths. Sparse `attributes`, `identifiers` and `links` maps from the supplied
+XML-to-Parquet converter are expanded; original attribute names remain under
+`original_attributes.*`. XML structural names match that converter's columns;
+extra XML text and attributes are retained under dotted paths. Information already
+omitted by an upstream converter cannot be recovered from its Parquet file.
+
+The workflow reuses the current model prompts, schema constraints, concept
+reconstruction, GenEpiO top-5 retrieval, grounding and annotation reconstruction.
+The model/index initialize once per run. It does not change production semantics.
+Both LLM stages retain prompt/generated token counts, inference wall time,
+`finish_reason`, truncation (`finish_reason == "length"`), strict JSON validity,
+schema validity, raw response and model errors. Truncated, malformed,
+schema-invalid and aborted responses fail that record; subsequent records
+continue. Later stages are explicitly marked skipped if prerequisites fail.
+Extracted concepts and retrieved candidates are retained if grounding fails;
+failed calls are not mislabeled as unresolved ontology mappings.
+
+Every run saves these files in a **new output directory**:
+
+- `sampled_accessions.txt`: one line per selected row; a blank marks a missing accession.
+- `sampled_metadata.jsonl`: canonical records, including all retained metadata.
+- `enrichment_results.jsonl`: complete verbose results and per-stage diagnostics.
+- `summary.json`: sampling provenance, processed/completed/failed counts, concepts
+  per record, total concepts, matched/unresolved counts, timings, records/sec,
+  token totals/distributions and stage failure/truncation rates.
+
+Failure-rate denominators are attempted calls for that stage; skipped stages
+are excluded. JSON/schema validity is null when it could not be evaluated,
+which is reported separately and never counted as a pass. JSON/schema validity
+is checked even for truncated output, but truncation always prevents acceptance.
+Records/sec excludes sampling and model/index initialization; those timings
+and total run wall time are recorded separately. Results stream to JSONL and
+an atomic partial summary is updated after every record. Initialization errors
+are saved against each sampled row; the CLI exits nonzero if any record failed.
+In `--sample-only` mode the enrichment file is empty and processed records is zero.
+
+This is qualitative exploration of public metadata, **not an accuracy benchmark**.
+No real model/GPU inference was performed while implementing this workflow.
+Run its offline tests with:
+
+```bash
+CUDA_VISIBLE_DEVICES='' python -m unittest test_biosample_sample_test test_compact_io
+```

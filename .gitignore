@@ -26,3 +26,12 @@ baseline-results/grounding-comparison/response-audit.md
 
 # Machine-specific run and install logs
 *.log
+
+# Large local BioSample sources and exploratory outputs
+*.xml.gz
+*.parquet
+biosample_xml_to_parquet.py
+attribute_catalogue.tsv
+original_attribute_catalogue.tsv
+sample-test-runs/*
+!sample-test-runs/parquet-gpu-20261009/

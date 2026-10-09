@@ -6,3 +6,5 @@ joblib
 mistral-common>=1.8.6
 vllm==0.13.0
 transformers==4.57.6
+pyarrow
+jsonschema
